@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ManyToManyApplication<many-to-many>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.manytomany.manytomany.ManyToManyApplication",
+            "projectName": "many-to-many",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ManyToManyApplication<many-to-many>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.manytomany.ManyToManyApplication",
+            "projectName": "many-to-many",
+            "args": ""
+        }
+    ]
+}
