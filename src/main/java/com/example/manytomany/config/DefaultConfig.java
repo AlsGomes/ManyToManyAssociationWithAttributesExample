@@ -17,8 +17,7 @@ public class DefaultConfig {
     @Autowired
     private ProdutoRepository produtoRepository;
 
-    @Autowired
-    
+    @Autowired    
     private VendaRepository vendaRepository;
 
     @Autowired
